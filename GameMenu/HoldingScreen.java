@@ -18,7 +18,7 @@ import java.awt.event.MouseEvent;
  * Updated the driver class to place this class in between each level.
  * </p>
  *
- * @author Hannah Kim
+ * @author Hannah Kim, Sophia Nguyen
  * @version 06.04.19
  *
  * <h2>Course Info:</h2>
