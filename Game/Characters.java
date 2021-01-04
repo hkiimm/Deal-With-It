@@ -12,7 +12,7 @@ import java.awt.*;
  * When the method is called, the image passed through the parameters is drawn at the specified location.
  * </p>
  *
- * @author Hannah Kim
+ * @author Hannah Kim & Sophia Nguyen
  * @version 06.04.19
  *
  * <h2>Course Info:</h2>
