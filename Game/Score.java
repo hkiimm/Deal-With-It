@@ -9,7 +9,7 @@ package Game;
  * toString method creates a string of the two variables.
  * </p>
  *
- * @author Hannah Kim
+ * @author Hannah Kim, Sophia Nguyen
  * @version 06.06.19
  *
  * <h2>Course Info:</h2>
