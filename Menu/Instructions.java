@@ -21,7 +21,7 @@ import java.awt.event.MouseEvent;
  * Debugged and checked for errors.
  * </p>
  *
- * @author Hannah Kim
+ * @author Hannah Kim, Sophia Nguyen
  * @version 06.02.19
  *
  * <h2>Course Info:</h2>
