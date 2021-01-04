@@ -21,7 +21,7 @@ import java.awt.event.ActionEvent;
  * Debugged and made sure the screen worked well without bugs.
  * </p>
  *
- * @author Hannah Kim
+ * @author Hannah Kim, Sophia Nguyen
  * @version 05.27.19
  *
  * <h2>Course Info:</h2>
